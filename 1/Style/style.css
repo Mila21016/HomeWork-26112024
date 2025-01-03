@@ -33,7 +33,7 @@ h1{
     font-weight: 600px;
     text-align: left;
 }
-input
+ main input
 {
     padding: 15px;
     min-width: 316px;
@@ -48,11 +48,7 @@ input
     border-radius: 20px;
 }
 .category{
-    width: 360px;
-    height: 800px;
-    top: -510px;
-    left -594px;
-    border-radius 20px;
+    
 }
 .category_item
 {
